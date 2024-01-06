@@ -47,7 +47,7 @@
   - Abstract Factory - 🎓 known
   - Adapter - 🎓 known
   - Observer - 🙋 explained
-  - Strategy - 🖐️ used
+  - Strategy - 🙋 explained
   - Facade
   - Proxy - 🖐️ used
   - Chain of Responsibility - 🎓 known

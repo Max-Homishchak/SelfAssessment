@@ -69,16 +69,17 @@
   - GRASP - 🖐️ used
   - SOLID - 🖐️ used
   - GoF patterns - 🎓 known
-  - Distributed systems
+  - Distributed systems - 🎓 known
   - Highload applications - 🔬 researched
   - Clean architecture - 🔬 researched
   - DDD - 🔬 researched
+  - TDD - 🖐️ used
   - Message Queue - 🖐️ used
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing - 🎓 known
-  - Serverless clouds
+  - Load balancing - 🖐️ used
+  - Serverless clouds - 🖐️ used
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
@@ -113,11 +114,11 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
+  - Native test runner - 🖐️ used
   - Logging - 🖐️ used
   - Application configuring - 🖐️ used
   - Testing - 🖐️ used
-  - CI/CD - 🖐️ used
+  - CI/CD - 🔬 researched
   - Readable - 🎓 known
   - Writable - 🎓 known
   - Transform
