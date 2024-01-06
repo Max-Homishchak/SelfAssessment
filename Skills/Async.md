@@ -4,7 +4,7 @@
   - Event loop
   - try..catch - 🖐️ used
   - Non-blocking - 🖐️ used
-  - Async I/O 
+  - Async I/O - 🎓 known
   - Thread pool - 🖐️ used
   - Pattern Reactor - 🖐️ used
   - CAS operations
@@ -18,12 +18,12 @@
   - Live locks
   - Concurrent programming - 🎓 known
   - Parallel programming - 🎓 known
-  - Actor Model
+  - Actor Model - 👂 heard
   - Thread - 🎓 known
   - Process - 🎓 known
 - Async contracts
   - Callbacks - 👂 heard
-  - Callback-last-error-first
+  - Callback-last-error-first - 👂 heard
   - Thenable
   - Promise - 👂 heard
   - Async/await - 👂 heard
@@ -35,7 +35,7 @@
   - Event - 👂 heard
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal - 👂 heard
   - Stream - 🖐️ used
   - Chain of responsibility
   - Middleware
